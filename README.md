@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou o Tiago 👋
 
-<!--
-**vilastiago7-collab/vilastiago7-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 17 anos, sou de Mauá da Serra (PR) e estou começando na programação.
 
-Here are some ideas to get you started:
+- 💻 Estudando **C#** e **.NET**
+- 🧠 Base em lógica de programação, JavaScript e JSON
+- 📊 Trabalho com TI na VLS desde 2024 (planilhas, documentos e controle de notas)
+- 🎯 Buscando estágio, Jovem Aprendiz ou vaga júnior em TI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+📫 vilastiago7@gmail.com
