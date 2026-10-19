@@ -12,4 +12,8 @@ Tenho 17 anos, sou de Mauá da Serra (PR) e estou começando na programação.
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### 🌐 Links
+- 📁 [Meu portfólio](https://hark.site/s/d61b60d7-a936-43b4-81d9-d06ae9fffe22)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tiago-vilas-boas-dos-santos-3a9985444)
+
 📫 vilastiago7@gmail.com
